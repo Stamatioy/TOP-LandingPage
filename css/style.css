@@ -1,4 +1,8 @@
 /*HEADER & HERO TEXT START*/
+* {
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: Verdana, sans-serif;
 }
