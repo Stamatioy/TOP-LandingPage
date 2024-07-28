@@ -23,6 +23,7 @@ a {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-top: 10px;
 }
 
 .logo-text{
@@ -53,6 +54,7 @@ a {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+    margin-bottom: 40px;
 }
 
 .hero-secondary {
@@ -110,6 +112,7 @@ img.group-image {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
+    margin: 40px 0px;
 }
 
 img.image {
